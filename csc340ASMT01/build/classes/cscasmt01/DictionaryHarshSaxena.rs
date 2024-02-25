@@ -1,0 +1,4 @@
+csc340asmt01.DictionaryHarshSaxena$Definition
+csc340asmt01.DictionaryHarshSaxena
+csc340asmt01.DictionaryHarshSaxena$PartOfSpeech
+csc340asmt01.DictionaryHarshSaxena$Keyword
